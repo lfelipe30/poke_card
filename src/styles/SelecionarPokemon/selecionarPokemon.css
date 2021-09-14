@@ -1,0 +1,15 @@
+.principal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-select{
+    margin-top: 100px;
+    width: 550px;
+}
+
+.titulo{
+    margin-top: 40px;
+}
