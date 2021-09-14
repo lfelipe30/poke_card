@@ -17,7 +17,11 @@ const SelecionarPokemon = () => {
                     ability:{
                         name:""
                     }
-                }]
+                }],
+
+                species:{
+                    name:""
+                }
 
     })
 

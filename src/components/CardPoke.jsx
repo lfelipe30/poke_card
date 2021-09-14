@@ -6,7 +6,7 @@ import '../styles/CardPoke/cardPoke.css'
 const CardPoke = (props) => {
 
     //PEGANDO ABILIDADE
-   // props.dados.abilities.map(e => (
+   // props.dados.species.name.map(e => (
      //   console.log(e.ability.name)
     //))
 
